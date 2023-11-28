@@ -1,5 +1,6 @@
+<img src="https://github.com/Danielkassaw/Danielkassaw/raw/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png" alt="LinkedIn Banner" />
+
 <h1 align="center">Hi 👋, I'm Daniel Kassaw</h1>
-<h3 align="center">Highly skilled software developer with expertise in Web and System back-end development</h3>
 
 - 🔭 I’m currently working on **E-commerce System and Other web and systems**
 
