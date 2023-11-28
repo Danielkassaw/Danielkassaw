@@ -1,7 +1,7 @@
 <img src="https://github.com/Danielkassaw/Danielkassaw/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png" alt="LinkedIn Banner" />
 
 <h1 align="center">Hi 👋, I'm Daniel Kassaw</h1>
-# I Previously worked on :
+<h2> I Previously worked on : </h2>
 <p>* Online Education Platform:(https://kuraztech.com)</p>
 <p></p>* Ecommerce Platform: (https://www.mismaret.com)</p>
 
