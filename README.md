@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://github.com/Danielkassaw/Danielkassaw/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png
 <!--
 **Danielkassaw/Danielkassaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
