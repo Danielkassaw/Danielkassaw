@@ -2,8 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Kassaw</h1>
 - 🔭 I privesly works
-     <h6>* Online Education Platform </h6> https://kuraztech.com
-     <h6>* Ecommerce Platform </h6>https://www.mismaret.com</p>
+    <div style="display: flex; flex-direction: row;">
+    <div style="flex: 1; margin-right: 10px;">
+        <h6>* Online Education Platform </h6>
+        <a href="https://kuraztech.com">kuraztech.com</a>
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <h6>* Ecommerce Platform </h6>
+        <a href="https://www.mismaret.com">mismaret.com</a>
+    </div>
+</div>
+
 
 
 - 👯 I’m looking to collaborate on **Any web and systems that needs my back-end development expertise.**
