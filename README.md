@@ -2,16 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Kassaw</h1>
 - 🔭 I privesly works
-    <div style="display: flex; flex-direction: row;">
-    <div style="flex: 1; margin-right: 10px;">
-        <h6>* Online Education Platform </h6>
-        <a href="https://kuraztech.com">kuraztech.com</a>
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <h6>* Ecommerce Platform </h6>
-        <a href="https://www.mismaret.com">mismaret.com</a>
-    </div>
-</div>
+    | Online Education Platform | Ecommerce Platform |
+|--------------------------|--------------------|
+| [kuraztech.com](https://kuraztech.com) | [mismaret.com](https://www.mismaret.com) |
+
 
 
 
