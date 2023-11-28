@@ -1,9 +1,9 @@
 <img src="https://github.com/Danielkassaw/Danielkassaw/raw/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png" alt="LinkedIn Banner" />
 
 <h1 align="center">Hi 👋, I'm Daniel Kassaw</h1>
-- 🔭 I privesly works
-<p>** Online Education Platform:(https://kuraztech.com)</p>
-<p>** Ecommerce Platform: (https://www.mismaret.com)</p>
+- 🔭 I privesly worked on :
+<p>* Online Education Platform:(https://kuraztech.com)</p>
+<p>* Ecommerce Platform: (https://www.mismaret.com)</p>
 
 - 👯 I’m looking to collaborate on **Any web and systems that needs my back-end development expertise.**
 
