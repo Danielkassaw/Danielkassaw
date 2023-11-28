@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Kassaw</h1>
 - 🔭 I privesly works
-- <p></p>Online Education Platform: **[kuraztech.com](https://kuraztech.com)**</p>
-- <p></p>Ecommerce Platform: **[mismaret.com](https://www.mismaret.com)**</p>
+- <p>Online Education Platform: **[kuraztech.com](https://kuraztech.com)**</p>
+- <p>Ecommerce Platform: **[mismaret.com](https://www.mismaret.com)**</p>
 
 - 👯 I’m looking to collaborate on **Any web and systems that needs my back-end development expertise.**
 
