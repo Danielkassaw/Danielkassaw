@@ -2,12 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Kassaw</h1>
 - 🔭 I privesly works
-    | Online Education Platform | Ecommerce Platform |
-|--------------------------|--------------------|
-| [kuraztech.com](https://kuraztech.com) | [mismaret.com](https://www.mismaret.com) |
-
-
-
+- **Online Education Platform**: [kuraztech.com](https://kuraztech.com)
+- **Ecommerce Platform**: [mismaret.com](https://www.mismaret.com)
 
 - 👯 I’m looking to collaborate on **Any web and systems that needs my back-end development expertise.**
 
