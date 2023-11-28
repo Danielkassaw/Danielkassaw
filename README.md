@@ -1,4 +1,4 @@
-<img src="[https://github.com/Danielkassaw/Danielkassaw/raw/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png](https://github.com/Danielkassaw/Danielkassaw/commit/7d8efe9b835fc1d7701636a966bb17c0535a578d)" alt="LinkedIn Banner" />
+<img src="https://github.com/Danielkassaw/Danielkassaw/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png" alt="LinkedIn Banner" />
 
 <h1 align="center">Hi 👋, I'm Daniel Kassaw</h1>
 - 🔭 I Previously worked on :
