@@ -1,8 +1,13 @@
 <img src="https://github.com/Danielkassaw/Danielkassaw/raw/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png" alt="LinkedIn Banner" />
 
 <h1 align="center">Hi 👋, I'm Daniel Kassaw</h1>
+- 🔭 I privesly work on kuraztech platform This platform is designed to provide users with easy access to educational video content that helps advance their professional careers. It offers modern, up-to-date, and best-in-class courses tailored to their specific needs. Additionally, professionals have the opportunity to upload and sell their own tutorials to cater to their customers' requirements.
+https://kuraztech.com
+- 🔭 I’m currently working on  e-commerce platform
+  <p>This project focuses on developing an e-commerce platform for construction materials. It aims to provide a user-friendly interface where merchants can register, add their products, 
+ and showcase them to potential customers. The platform enables online sales, allowing merchants to effectively market and sell their construction materials.
+https://www.mismaret.com</p>
 
-- 🔭 I’m currently working on **E-commerce System and Other web and systems**
 
 - 👯 I’m looking to collaborate on **Any web and systems that needs my back-end development expertise.**
 
