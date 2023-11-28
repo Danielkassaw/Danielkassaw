@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Kassaw</h1>
 <h3 align="center">Highly skilled software developer with expertise in Web and System back-end development</h3>
 
-- 🔭 I’m currently working on **E-commerce System**
-- 🔭 I’m currently working on **Other web and systems**
+- 🔭 I’m currently working on **E-commerce System and Other web and systems**
 
 - 👯 I’m looking to collaborate on **Any web and systems that needs my back-end development expertise.**
 
